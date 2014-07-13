@@ -1,4 +1,6 @@
 invite
 ======
 
-meteor package to handle invites
+meteor package to handle invites. 
+
+
